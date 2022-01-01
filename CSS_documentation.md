@@ -4,4 +4,10 @@
     - selector: The element that style applied to
     - Property: Style name
     - Value: value of style
-  - 
+  - there are three types of style sheets.
+    - inline style sheets.
+      - these are written in a tag or a line.
+    - internal style sheets.
+      - styles applied to entire webpage.
+    - external style sheets.
+      - styles applied to one or more webpages.
